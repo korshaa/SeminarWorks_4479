@@ -115,6 +115,9 @@ id sem consectetuer libero luctus adipiscing.
 
 ### Горизонтальная черта 
 
+`hr` создается тремя звездочками или тремя дефисами.
+
+***
 
 
 
